@@ -1,0 +1,4 @@
+usamos TownPi.session.sql para hacer cambios en la base de datos
+El id de Salamanca es 40 (IMPORTANTE)
+
+TJP_SP1_17122024
